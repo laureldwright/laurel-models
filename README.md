@@ -2,7 +2,7 @@
 Data analysis and modeling
 
 
-## Environment setup and running the code
+## Environment setup
 
 I use `venv` and `pip` to manage my simple environment.
 
