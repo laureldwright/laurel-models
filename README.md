@@ -28,5 +28,5 @@ Instructions:
 ```
 python
 import main
-main.main(<file_path>, <SMILES column)
+main.main(<file_path>, <SMILES column>)
 ```
